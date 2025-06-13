@@ -1,5 +1,18 @@
-- 签到时间 2025-06-13 09:54:17 [![签到状态](https://github.com/y377/189pan/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/y377/189pan/actions/workflows/main.yml)
+- 签到时间 2025-06-13 09:56:31 [![签到状态](https://github.com/y377/189pan/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/y377/189pan/actions/workflows/main.yml)
 - # 天翼云盘自动签到抽奖程序
 - 
-- 错误：环境变量TYYP_USERNAME或TYYP_PSW未设置
-- 请确保.env文件存在并包含正确的配置
+- ## 执行概览
+- - **启动时间**: 2025-06-13 09:56:31
+- - **账户数量**: 1 个
+- 
+- ## 账户1
+- ### 执行结果
+- - **登录状态**: 登录失败
+- - **签到结果**: 
+- 
+- ---
+- ## 执行统计
+- - **结束时间**: 2025-06-13 09:56:34
+- - **运行时长**: 3.40 秒
+- 
+- ✅ **所有账户处理完成！**
